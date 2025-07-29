@@ -45,7 +45,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline that
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Abhronil-Dutta/RAG-PDF.git
    cd RAG
    ```
 
