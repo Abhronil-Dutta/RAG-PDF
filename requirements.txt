@@ -1,0 +1,18 @@
+# Core PDF/text processing
+pymupdf
+
+# Chunking
+langchain
+
+# Embedding model & inference
+torch
+transformers
+
+# Vector store
+faiss-cpu
+
+# Progress bar (optional, but nice)
+tqdm
+
+# For API calls to Ollama
+requests
